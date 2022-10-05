@@ -1,7 +1,16 @@
-.headings {
+/* .headings {
   color: red;
 }
 .paris_paragraph {
   background-color: beige;
 }
-#london_heading {background-color: pink;}
+#london_heading {background-color: pink;} */
+.span {
+    padding: 0px 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid black;
+}
+.paragraph {
+    border: 10px ridge lightgreen;
+    margin: 5px;
+}
